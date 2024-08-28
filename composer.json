@@ -1,0 +1,23 @@
+{
+    "name": "devbigkelly/laravel-activity-log",
+    "description": "Simple laravel user activity log",
+  
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Devbigkelly\\LaravelActivityLog\\": "src/"
+        }
+    },
+    "require-dev": {
+        "orchestra/testbench": "^6.0",
+        "phpunit/phpunit": "^9.5"
+    },
+    "authors": [
+        {
+            "name": "Ameti Akpan",
+            "email": "103995977+Devbigkelly@users.noreply.github.com"
+        }
+    ],
+    "minimum-stability": "dev"
+
+}
